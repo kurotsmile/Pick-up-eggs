@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Pick up eggs.sln"
+    "dotnet.defaultSolution": "Pick-up-eggs.slnx"
 }

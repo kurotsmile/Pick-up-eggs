@@ -1,6 +1,5 @@
-using Carrot;
 using System.Collections.Generic;
-using Unity.VisualScripting;
+using Carrot;
 using UnityEngine;
 using UnityEngine.UI;
 
